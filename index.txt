@@ -1,3 +1,5 @@
 este es primer proyecto web
 1.- presupuesto
 2.-influencer a elegir
+3.- fecha publicación
+4.-Duración del sorteo
